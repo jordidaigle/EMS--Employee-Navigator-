@@ -7,7 +7,8 @@
   
   # NoteTakerApp
   ## Description
-  TBA
+  Simple CLI application using JS, Express, and MySQL that I did for a class. It integrates 3 DBs to allow you to see, add, and update information to employees,  roles, and departments.
+  
   ## Table of Contents
   - [Title](#title)
   - [Description](#description)
@@ -20,12 +21,13 @@
   - [Contributing](#contributing)
   - [Questions and Feedback](#questions-and-feedback)
   ## Screenshots
- TBD
+ <a href=""> Click this link to see a demo video</a>
+ 
 
   ## Installation
   Download (and unpack) or clone the repo, then using a CLI run the node server.js command.
   ## Usage
-  Run the application by going to the Heroku link.
+  Run the application by using node server.js in the CLI.
   ## Testing
  TBD
   ## License
