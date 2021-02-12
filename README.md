@@ -7,7 +7,7 @@
   
   # NoteTakerApp
   ## Description
-  Simple CLI application using JS, Express, and MySQL that I did for a class. It integrates 3 DBs to allow you to see, add, and update information to employees,  roles, and departments.
+  Simple CLI application using JS, Express, and MySQL that I built. It integrates 3 DBs and allow you to see, add, and update information to employees,  roles, and departments.
   
   ## Table of Contents
   - [Title](#title)
